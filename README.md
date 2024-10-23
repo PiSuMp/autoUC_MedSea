@@ -1,4 +1,4 @@
-# 'Towards a Fully Automated Underwater Census for Fish Assemblages in the Mediterranean Sea'
+# Towards a Fully Automated Underwater Census for Fish Assemblages in the Mediterranean Sea
 ## Repository of the publication
 ## Demo
 ### Step by step - Transect by different Methods
