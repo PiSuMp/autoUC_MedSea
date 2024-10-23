@@ -20,4 +20,4 @@
 2. Open '.03_R_Scripts/aucThresholding_overall.R'
 3. Install packages
 4. Optional: If you want to save the graph in a PDF uncomment line 266
-5. Run all the lines and enjoy the graph, s
+5. Run all the lines and enjoy the graph
