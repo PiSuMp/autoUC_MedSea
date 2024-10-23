@@ -7,6 +7,7 @@
 4. Change the threshold file on line 37 if different than 0.8
 5. Optional: If you want to save the graph in a PDF uncomment line 266
 6. Run all the lines and enjoy the graphs
+Result: [Transect Evaluation by Methods](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figures/transectData.png)
 
 ### Step by step - AUC Thresholds Overall
 1. Clone the repository
@@ -15,7 +16,7 @@
 4. Optional: If you want to save the graph in a PDF uncomment line 246
 5. Run all the lines and enjoy the graphs
 
-[screenshot](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figures/aucOverall.png?raw=true)
+Result: [AUC Overall](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figures/aucOverall.png?raw=true)
 
 ### Step by step - AUC Thresholds per Species
 1. Clone the repository
