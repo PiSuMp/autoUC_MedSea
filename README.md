@@ -33,8 +33,13 @@ Result: [AUC by Species](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Fi
    - class x_center y_center width height confidence
 2. Copy all the label files into the folder ./03_Datasets/99_label_files
 3. Run the python script './02_Python_Scripts/concatenate_labels.py'
-   
    - This creates a file called './summaryVideos.csv' that contains all the labels information
 5. Run the R script 'condenseDetections.R'
    Change the incrementStep for the confidence threshold at line 15
    - This creates multiple files in the folder './03_Datatsets/01_condensedCounts_Detections/' for each of the confidence threhsolds given in 'condenseDetections.R'
+6. Place your manual count data in the folder './03_Datatsets/03_Manual_Video_Count'
+   - Check the already available demo data for orientation
+7. Place your UVC data in the folder './03_Datatsets/02_UVC_Data'
+   - Check the already available demo data for orientation
+8. Place a file called 'class_names.txt' in the root dir with all your class names in it
+9. All set to run the above commands to get your own graphs
