@@ -30,8 +30,7 @@ Result: [AUC by Species](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Fi
 
 ## Workflow for custom data
 0. Your label files need to have the following structure per file:
-   
-   class x_center y_center width height confidence
+   - class x_center y_center width height confidence
 2. Copy all the label files into the folder ./03_Datasets/99_label_files
 3. Run the python script './02_Python_Scripts/concatenate_labels.py'
    
