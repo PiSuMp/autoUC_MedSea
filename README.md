@@ -15,7 +15,7 @@
 4. Optional: If you want to save the graph in a PDF uncomment line 246
 5. Run all the lines and enjoy the graphs
 
-![alt text](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figures/aucOverall.png?raw=true)
+![screenshot](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figures/aucOverall.png?raw=true)
 
 ### Step by step - AUC Thresholds per Species
 1. Clone the repository
