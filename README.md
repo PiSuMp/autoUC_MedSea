@@ -27,4 +27,4 @@ Result: [AUC Overall](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figur
 4. Optional: If you want to save the graph in a PDF uncomment line 266
 5. Run all the lines and enjoy the graph
    
-Result: [Transect Evaluation by Methods](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figures/aucPerSpecies.png?raw=true)
+Result: [AUC by Species](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figures/aucPerSpecies.png?raw=true)
