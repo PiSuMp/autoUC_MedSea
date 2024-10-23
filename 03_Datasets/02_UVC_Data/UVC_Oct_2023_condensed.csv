@@ -1,0 +1,68 @@
+project,diver,location,date,zone,substrate,depth,site,transect,gopro,file,Other,Anthias_anthias,Apogon_imberbis,Boops_boops,Chromis_chromis,Coris_julis,Diplodus_sargus,Diplodus_vulgaris,Epinephelus_marginatus,Mullus_surmuletus,Oblada_melanura,Sarpa_salpa,Seriola,Sciaena_umbra,Serranus_cabrilla,Serranus_scriba,Sparus_aurata,Spicara_smaris,Symphodus_tinca,Thalassoma_pavo
+OFB,SR,Cap Roux ,02/10/2023,O,rocky,shallow,6,5,,-,4,0,0,0,0,23,3,5,0,0,2,0,0,0,0,1,1,0,18,1
+OFB,SR,Cap Roux ,02/10/2023,O,rocky,shallow,6,6,,-,8,0,0,0,0,5,4,1,0,1,1,0,0,0,1,2,0,0,16,1
+FEAMPA,SR,Corniche varoise,10/10/2023,I,posidonia,none,2,6,,-,52,0,0,1,130,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+OFB,SR,Cap Roux ,02/10/2023,O,rocky,shallow,4,1,5,GH010022,3,0,0,0,1,6,2,2,0,0,2,0,0,0,0,1,0,0,7,2
+OFB,SR,Cap Roux ,02/10/2023,O,rocky,shallow,4,2,5,GH010023,1,0,0,0,0,18,0,7,0,1,70,3,0,0,0,0,0,0,7,6
+OFB,SR,Cap Roux ,02/10/2023,O,rocky,shallow,4,3,5,GH010024,2,0,0,0,0,17,5,5,0,0,3,3,0,0,0,0,0,0,1,2
+OFB,SR,Cap Roux ,02/10/2023,O,rocky,shallow,4,4,5,GH010025,2,0,0,0,60,12,1,4,0,0,8,0,0,0,0,2,0,0,2,6
+OFB,SR,Cap Roux ,02/10/2023,O,rocky,shallow,6,1,5,GH010026,2,0,0,0,90,9,2,2,0,1,0,0,0,0,0,3,0,0,8,0
+OFB,SR,Cap Roux ,02/10/2023,O,rocky,shallow,6,2,5,GH010027,5,0,0,0,22,10,8,1,0,0,0,13,0,0,0,1,0,0,11,2
+OFB,SR,Cap Roux ,02/10/2023,O,rocky,shallow,6,3,5,GH010028,10,0,9,0,12,11,4,4,0,0,0,10,0,0,0,3,0,0,11,5
+OFB,SR,Cap Roux ,02/10/2023,O,rocky,shallow,6,4,5,GH010029,6,0,0,0,6,7,9,2,0,1,1,0,0,0,0,2,0,0,10,0
+OFB,SR,Cap Roux ,03/10/23,O,posidonia,deep,6,4,5,GH010030,4,0,0,55,100,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFB,SR,Cap Roux ,03/10/23,O,posidonia,deep,6,5,5,GH010031,4,0,0,30,100,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+OFB,SR,Cap Roux ,03/10/23,O,posidonia,deep,6,6,5,GH010032,4,0,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0
+OFB,VR,Cap Roux ,02/10/23,O,posidonia,deep,4,1,1,GH010396,0,0,0,1,70,7,0,0,0,0,0,0,0,0,0,0,0,14,0,0
+OFB,VR,Cap Roux ,02/10/23,O,posidonia,deep,4,2,1,GH010397,72,0,0,1,45,5,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+OFB,VR,Cap Roux ,02/10/23,O,posidonia,deep,4,3,1,GH010398,30,0,0,0,40,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0
+OFB,VR,Cap Roux ,02/10/23,O,posidonia,shallow,4,1,1,GH010399,6,0,0,0,23,1,0,0,0,0,0,3,0,0,0,0,0,12,0,0
+OFB,VR,Cap Roux ,02/10/23,O,posidonia,shallow,4,2,1,GH010400,1,0,0,0,16,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+OFB,VR,Cap Roux ,02/10/23,O,posidonia,shallow,4,3,1,GH010401,1,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFB,VR,Cap Roux ,03/10/23,O,posidonia,deep,6,1,1,GH010403,15,0,0,0,40,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+OFB,VR,Cap Roux ,03/10/23,O,posidonia,deep,6,2,1,GH010404,2,0,0,0,20,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+OFB,VR,Cap Roux ,03/10/23,O,posidonia,deep,6,3,1,GH010405,5,0,0,0,35,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+OFB,HM,Cap Roux ,05/10/2023,I,posidonia,deep,1,4,1,GH010417,16,0,0,200,100,1,0,0,0,0,3,0,0,0,0,0,0,3,0,0
+OFB,HM,Cap Roux ,05/10/2023,I,posidonia,deep,1,5,1,GH010418,32,0,0,4,50,2,1,0,0,0,0,3,0,0,0,1,0,2,0,0
+OFB,HM,Cap Roux ,05/10/2023,I,posidonia,deep,1,6,1,GH010419,2,0,0,104,200,7,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+OFB,HM,Cap Roux ,05/10/2023,O,rocky,deep,5,6,1,GH010424,4,0,16,0,33,10,0,0,1,0,0,4,0,0,0,4,0,0,3,0
+FEAMPA,JMG,Corniche varoise,11/10/2023,I,rocky,deep,1,1,1,GH010446,37,20,0,190,0,32,5,9,0,6,0,0,0,0,1,0,0,20,0,0
+FEAMPA,JMG,Corniche varoise,11/10/2023,I,rocky,deep,1,2,1,GH010448,49,15,2,190,20,86,0,39,1,7,0,0,0,0,2,0,0,80,11,0
+FEAMPA,JMG,Corniche varoise,11/10/2023,I,rocky,deep,1,3,1,GH010449,76,30,0,420,0,41,0,0,1,0,0,2,0,0,1,1,0,100,0,0
+FEAMPA,JMG,Corniche varoise,11/10/2023,I,posidonia,none,1,1,1,GH010451,2,0,0,34,80,10,0,0,0,0,0,0,0,0,0,1,0,0,6,0
+FEAMPA,JMG,Corniche varoise,11/10/2023,I,posidonia,none,1,2,1,GH010452,7,0,0,10,6,6,0,0,0,0,0,0,0,0,0,3,0,4,0,0
+FEAMPA,JMG,Corniche varoise,11/10/2023,I,posidonia,none,1,3,1,GH010453,5,0,0,0,4,18,0,0,0,0,0,0,0,0,0,0,0,2,4,0
+OFB,SR,Cap Roux ,05/10/2023,I,posidonia,deep,1,1,3,GH010736,6,0,0,20,100,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+OFB,SR,Cap Roux ,05/10/2023,I,posidonia,deep,1,2,3,GH010737,2,0,0,2,150,2,0,0,0,0,0,4,0,0,0,0,0,6,0,0
+OFB,SR,Cap Roux ,05/10/2023,I,posidonia,deep,1,3,3,GH010739,17,0,0,0,150,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+OFB,SR,Cap Roux ,05/10/2023,O,rocky,deep,5,1,3,GH010740,2,0,20,0,180,11,1,1,0,0,0,0,0,0,0,3,0,0,4,0
+OFB,SR,Cap Roux ,05/10/2023,O,rocky,deep,5,2,3,GH010742,7,0,15,100,200,5,0,15,0,0,0,0,0,0,0,3,0,0,3,0
+OFB,SR,Cap Roux ,05/10/2023,O,rocky,deep,5,3,3,GH010743,8,0,10,0,0,12,1,1,0,0,0,15,0,0,0,5,0,0,52,0
+FEAMPA,SR,Corniche varoise,10/10/2023,I,posidonia,none,2,4,3,GH010757,0,0,0,100,100,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0
+FEAMPA,SR,Corniche varoise,10/10/2023,I,posidonia,none,2,5,3,GH010758,11,0,0,0,50,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FEAMPA,JMG,Corniche varoise,10/10/2023,I,posidonia,none,2,1,2,GH011368,1,0,0,71,35,0,0,0,0,0,0,0,0,0,0,2,0,20,0,0
+FEAMPA,JMG,Corniche varoise,10/10/2023,I,posidonia,none,2,2,2,GH011369,1,0,0,4,40,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+FEAMPA,JMG,Corniche varoise,10/10/2023,I,posidonia,none,2,3,2,GH011370,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+FEAMPA,SR,Corniche varoise,11/10/2023,I,posidonia,none,1,4,2,GH011371,7,0,0,15,100,0,0,0,0,0,0,0,0,0,0,1,0,60,1,0
+FEAMPA,SR,Corniche varoise,11/10/2023,I,posidonia,none,1,5,2,GH011372,4,0,0,12,50,3,0,0,0,0,0,0,0,0,0,1,0,10,0,0
+FEAMPA,SR,Corniche varoise,11/10/2023,I,posidonia,none,1,6,2,GH011373,2,0,0,1,50,5,0,0,0,0,0,0,0,0,0,1,0,2,1,0
+OFB,SR,Cap Roux ,03/10/23,I,rocky,shallow,2,1,4,GX010752,103,0,25,0,50,11,11,4,0,2,0,2,0,0,0,2,0,0,12,5
+OFB,SR,Cap Roux ,03/10/23,I,rocky,shallow,2,2,4,GX010753,6,0,0,0,50,26,6,1,0,1,4,0,0,0,0,3,0,0,13,4
+OFB,SR,Cap Roux ,03/10/23,I,rocky,shallow,2,3,4,GX010754,3,0,0,0,50,23,9,2,0,0,3,0,0,0,0,1,0,0,0,2
+OFB,SR,Cap Roux ,03/10/23,I,rocky,shallow,2,4,4,GX010755,9,0,0,0,100,15,5,5,0,1,2,5,0,0,0,3,0,0,4,2
+OFB,SR,Cap Roux ,03/10/23,I,rocky,shallow,2,5,4,GX010756,3,0,0,0,50,18,7,2,0,1,61,50,0,0,0,2,0,0,8,2
+OFB,SR,Cap Roux ,06/10/2023,O,posidonia,deep,3,1,4,GX010777,7,0,0,12,130,5,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+OFB,SR,Cap Roux ,06/10/2023,O,posidonia,deep,3,2,4,GX010778,9,0,0,50,200,4,0,0,0,1,0,0,3,0,0,1,0,0,1,0
+OFB,SR,Cap Roux ,06/10/2023,O,posidonia,deep,3,3,4,GX010779,6,0,0,50,30,1,0,0,0,0,0,0,0,0,0,0,0,30,0,0
+FEAMPA,SR,Corniche varoise,12/10/2023,I,posidonia,none,3,1,4,GX010783,4,0,0,0,220,6,0,0,0,0,0,1,0,0,0,4,0,0,4,0
+FEAMPA,SR,Corniche varoise,12/10/2023,I,posidonia,none,3,2,4,GX010784,2,0,0,10,300,3,0,0,0,0,0,0,0,0,1,2,0,130,0,0
+FEAMPA,SR,Corniche varoise,12/10/2023,I,posidonia,none,3,3,4,GX010785,4,0,0,0,50,3,0,0,0,0,0,1,0,0,0,2,0,100,0,0
+FEAMPA,SR,Corniche varoise,12/10/2023,I,posidonia,none,3,4,4,GX010786,3,0,2,0,300,8,0,2,0,0,0,2,0,0,0,1,0,20,9,0
+FEAMPA,SR,Corniche varoise,12/10/2023,I,posidonia,none,3,5,4,GX010787,3,0,0,0,530,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+FEAMPA,SR,Corniche varoise,12/10/2023,I,posidonia,none,3,6,4,GX010788,2,0,0,0,133,5,0,0,0,0,0,0,0,0,0,2,0,0,2,0
+FEAMPA,JMG,Corniche varoise,13/10/23,I,rocky,shallow,4,1,1,GX012705,8,0,0,0,14,36,19,7,0,0,0,0,0,0,0,1,0,0,33,17
+FEAMPA,JMG,Corniche varoise,13/10/23,I,rocky,shallow,4,2,1,GX012707,12,0,4,0,30,58,8,21,1,0,0,0,0,0,0,5,0,0,24,1
+FEAMPA,JMG,Corniche varoise,13/10/23,I,rocky,shallow,4,3,1,GX012709,23,10,0,0,38,71,14,30,0,0,0,0,0,0,0,3,0,0,58,20
+FEAMPA,JMG,Corniche varoise,13/10/23,I,rocky,shallow,4,4,1,GX012710,17,0,4,0,20,36,20,33,0,0,0,20,0,0,0,2,0,0,60,30
+FEAMPA,JMG,Corniche varoise,13/10/23,I,rocky,shallow,4,5,1,GX012712,32,0,4,0,0,90,13,22,0,0,0,30,0,0,0,3,0,0,51,52
+FEAMPA,JMG,Corniche varoise,13/10/23,I,rocky,shallow,4,6,1,GX012714,5,0,0,0,60,94,11,40,0,0,0,0,0,0,0,2,0,0,10,36
