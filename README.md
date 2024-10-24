@@ -8,7 +8,7 @@
 5. Optional: If you want to save the graph in a PDF uncomment line 266
 6. Run all the lines and enjoy the graphs
    
-Result: [Transect Evaluation by Methods](./04_Figures/transectData.png)
+Result: [Transect Evaluation by Methods](./04_Figures/Squatina.png)
 
 ### Step by step - AUC Thresholds Overall
 1. Clone the repository
