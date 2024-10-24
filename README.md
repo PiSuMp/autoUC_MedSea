@@ -8,7 +8,7 @@
 5. Optional: If you want to save the graph in a PDF uncomment line 266
 6. Run all the lines and enjoy the graphs
    
-Result: [Transect Evaluation by Methods](./04_Figures/Squatina.png)
+Result: [Transect Evaluation by Methods](./04_Figures/transectData.png)
 
 ### Step by step - AUC Thresholds Overall
 1. Clone the repository
@@ -17,7 +17,7 @@ Result: [Transect Evaluation by Methods](./04_Figures/Squatina.png)
 4. Optional: If you want to save the graph in a PDF uncomment line 246
 5. Run all the lines and enjoy the graphs
 
-Result: [AUC Overall](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figures/aucOverall.png?raw=true)
+Result: [AUC Overall](./04_Figures/aucOverall.png?raw=true)
 
 ### Step by step - AUC Thresholds per Species
 1. Clone the repository
@@ -26,7 +26,7 @@ Result: [AUC Overall](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figur
 4. Optional: If you want to save the graph in a PDF uncomment line 266
 5. Run all the lines and enjoy the graph
    
-Result: [AUC by Species](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figures/aucPerSpecies.png?raw=true)
+Result: [AUC by Species](./04_Figures/aucPerSpecies.png?raw=true)
 
 ## Workflow for custom data
 0. Your label files need to have the following structure per file:
