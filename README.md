@@ -8,7 +8,7 @@
 5. Optional: If you want to save the graph in a PDF uncomment line 266
 6. Run all the lines and enjoy the graphs
    
-Result: [Transect Evaluation by Methods](https://github.com/PiSuMp/autoUC_MedSea/tree/main/04_Figures/transectData.png?raw=true)
+Result: [Transect Evaluation by Methods](./04_Figures/transectData.png)
 
 ### Step by step - AUC Thresholds Overall
 1. Clone the repository
