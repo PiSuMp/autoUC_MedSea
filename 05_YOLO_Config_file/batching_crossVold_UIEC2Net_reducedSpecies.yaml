@@ -1,0 +1,12 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: [./dataset/train_UIEC2Net/fold_2, ./dataset/train_UIEC2Net/fold_3, ./dataset/train_UIEC2Net/fold_4, ./dataset/train_UIEC2Net/fold_5, ./dataset/train_UIEC2Net/fold_6, ./dataset/train_UIEC2Net/fold_7, ./dataset/train_UIEC2Net/fold_8, ./dataset/train_UIEC2Net/fold_9, ./dataset/train_UIEC2Net/fold_10] # 3913 images
+
+val: ./dataset/train_UIEC2Net/fold_1  # 916 images
+#test: ./CustomDeepFish/test  # 20288 of 40670 images
+
+
+# number of classes
+nc: 25
+
+# class names
+names: ['Chromis_chromis', 'Diplodus_vulgaris', 'Coris_julis', 'Symphodus_tinca', 'Spicara_smaris', 'Diplodus_sargus', 'Seriola', 'Boops_boops', 'Thalassoma_pavo', 'Oblada_melanura', 'Mullus_surmuletus',  'Sarpa_salpa', 'Apogon_imberbis', 'Epinephelus_marginatus', 'Serranus_scriba', 'Anthias_anthias', 'Serranus_cabrilla', 'Sciaena_umbra', 'Sparus aurata', 'Other', 'background', 'diver', 'drone', 'jellyfish', 'seaurchin']
