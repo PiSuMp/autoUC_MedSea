@@ -1,7 +1,7 @@
 # Towards a Fully Automated Underwater Census for Fish Assemblages in the Mediterranean Sea
 ## Description
 This repository functions as the code and script database for the publication:
-Kilian Bürgi, Charles Bouveyron, Diane Lingrand, Benoit Dérijard, Frédéric Precioso, et al.. Towards a Fully Automated Underwater Census for Fish Assemblages in the Mediterranean Sea. 2024. [hal-04690514]([https://hal.science/hal-04690514])
+Kilian Bürgi, Charles Bouveyron, Diane Lingrand, Benoit Dérijard, Frédéric Precioso, et al.. Towards a Fully Automated Underwater Census for Fish Assemblages in the Mediterranean Sea. 2024. [hal-04690514](https://hal.science/hal-04690514)
 
 ## Demo
 ### Step by step - Transect by different Methods
